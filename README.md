@@ -1,4 +1,4 @@
-# Portfolios
+# Portfolio
 A list of achieved projects and works.
 
 ## List of Contents
