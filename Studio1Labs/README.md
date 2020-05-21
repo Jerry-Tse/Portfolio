@@ -8,7 +8,7 @@
 
 ---
 
-### Patient Monitoring Dashboard 
+### Patient Monitoring Dashboard
 ### (Published on [EETimes Asia](https://www.eetasia.com/covid-19-getting-to-grips-with-respiration/))
 
 #### Aims: Respiratory and Position monitor system for patient on our bedsheet device
@@ -27,8 +27,8 @@
 
 ---
 ### User Interface Visualization
-Aims: In charge of connecting InfluxDB, data processing and FlaskAPI to dump data to front-end.
+#### Aims: To monitor real time patient's condition. In charge of connecting InfluxDB, data processing and FlaskAPI to dump data to front-end.
 
-
+![](UI_VisualizationDemo.png)
 
 
