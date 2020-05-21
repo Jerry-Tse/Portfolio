@@ -28,7 +28,7 @@
 
 ---
 ### User Interface Visualization
-#### Aims: To monitor real time patient's condition. In charge of connecting InfluxDB, data processing and WebAPI to dump data to front-end.
+#### Aims: Real-time monitoring patient's condition. In charge of connecting InfluxDB, data processing and WebAPI to dump data to front-end.
 
 ![](UI_VisualizationDemo.png)
 
