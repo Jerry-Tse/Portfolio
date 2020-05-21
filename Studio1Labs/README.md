@@ -13,9 +13,10 @@
 
 #### Aims: Respiratory and Position monitor system for patient on our bedsheet device
 
-![Dashboard](PatientDashboardDemo.gif)
+[![Dashboard](DashboardDemo.png)](https://www.youtube.com/watch?v=jCrsoU1uVnM&feature=emb_logo)
 
-#### 3D figures below represent the patient's posture and location currently on our device, with special algorithms, we can then filter out the chest location and do the signal processing to present breathing pattern of the patient.
+
+#### 3D figures below represent the patient's posture and location currently on our device, and with some signal processing procedure, we can filter out the breathing pattern of the patient.
 
 ---
 
@@ -27,8 +28,7 @@
 
 ---
 ### User Interface Visualization
-#### Aims: To monitor real time patient's condition. In charge of connecting InfluxDB, data processing and FlaskAPI to dump data to front-end.
+#### Aims: To monitor real time patient's condition. In charge of connecting InfluxDB, data processing and WebAPI to dump data to front-end.
 
 ![](UI_VisualizationDemo.png)
-
 
