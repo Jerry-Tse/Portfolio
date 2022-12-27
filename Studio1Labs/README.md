@@ -1,34 +1,27 @@
-# Studio 1 Labs - Computer Engineering / Data Analyst Intern
-#### Core skills: Python, InfluxDB, Linux, Statistics and Machine Learning algorithms
+# Patient monitoring dashboard (Studio 1 Labs)
 
-## Table of Contents
-- [Patient Monitoring Dashboard](#patient-monitoring-dashboard)
-- [Reinforce the 3D Visualization of the positional data](#reinforce-the-3d-visualization-of-the-positional-data)
-- [User Interface Visualization](#user-interface-visualization)
+**Smart bed linen which is able to detecting patient's vital signs such as breathing patterns, patient position and heartbeats, etc. The ability to monitor patient's condition is critical, especially for certain respiratory diseases such as Covid-19.**
+
+**See here the report by [EETimes Asia](https://www.eetasia.com/covid-19-getting-to-grips-with-respiration/)**
+
+<p align="center">
+<img src="https://github.com/Jerry-Tse/Portfolio/blob/master/Studio1Labs/Patient_monitor_dashboard.gif" alt="drawing" width="600" />
+</p>
+
 
 ---
 
-### Patient Monitoring Dashboard
-### (Published on [EETimes Asia](https://www.eetasia.com/covid-19-getting-to-grips-with-respiration/))
+### Algorithms to increases the visual-understanding of the positional data
+I design algorithms that convert discrete sensor data into 3D continuous data, which greatly increases visual understanding of the patient position. See below the graph before (left) and after (right) the process.
 
-#### Aims: Respiratory and Position monitor system for patient on our bedsheet device
-
-[![Dashboard](DashboardDemo.png)](https://www.youtube.com/watch?v=jCrsoU1uVnM&feature=emb_logo)
-
-
-#### 3D figures below represent the patient's posture and location currently on our device, and with some signal processing procedure, we can filter out the breathing pattern of the patient.
+<p align="center">
+<img src="https://github.com/Jerry-Tse/Portfolio/blob/master/Studio1Labs/PositioningDemo.png" alt="drawing" width="550" align='center'/>
+</p>
 
 ---
+### Prototype of our User Interface
+Construct the pipeline from our bed linen device, InfluxDB cloud database, data processing to front-end UI.
 
-### Reinforce the 3D Visualization of the positional data
-#### Aims: Strengthen the visualization with mathematical signal processing procedure.
-![](PositioningDemo.png)
-
-#### Left is the graph directly drawn from the raw data, after smoothing and singal processing procedures, we are able to output informative graph(posture and location) as the right one.
-
----
-### User Interface Visualization
-#### Aims: Real-time monitoring patient's condition. In charge of connecting InfluxDB, data processing and WebAPI to dump data to front-end.
-
-![](UI_VisualizationDemo.png)
-
+<p align="center">
+<img src="https://github.com/Jerry-Tse/Portfolio/blob/master/Studio1Labs/UI_VisualizationDemo.png" alt="drawing" width="550" align='center'/>
+</p>
