@@ -1,6 +1,6 @@
 # Patient monitoring dashboard (Studio 1 Labs)
 
-**Smart bed linen which is able to detecting patient's vital signs such as breathing patterns, patient position and heartbeats, etc. The ability to monitor patient's condition is critical, especially for certain respiratory diseases such as Covid-19.**
+**Smart bed linen which detects patient's vital signs such as breathing patterns, patient position and heartbeats, etc. The ability to monitor patient's condition is critical, especially for certain respiratory diseases such as Covid-19.**
 
 **See here the report by [EETimes Asia](https://www.eetasia.com/covid-19-getting-to-grips-with-respiration/)**
 
