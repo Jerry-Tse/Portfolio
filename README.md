@@ -13,7 +13,7 @@ Product | [Electromyography (EMG) Implementation](https://drive.google.com/open?
 ## School projects/works
 School | Type | Projects | Description | Language
 :-- | :-- | :------ | :-- | :--
-NTU | Project | [Learn language with Pony]() | Language learning software. | English  
+NTU | Project | [Learn language with Pony](https://github.com/Jerry-Tse/Learn_Language_With_Pony/blob/main/README.md) | Learn vocabulary every day by uploading photos of your surroundings with our object detection solution. | English  
 NTU | Report | [Feasibility study - Watermarking Technique for self-correcting image](https://github.com/Jerry-Tse/Feasibility_study_watermark_on_deepfake/blob/main/README.md) | Feasibility study on self-recovery watermarking technique on deep fake tampered images. | English
 NTU | Report | [Bioinformatic - COVID 19 Phylogenetic analysis](https://github.com/Jerry-Tse/NTU_BioInformatic_final_report/blob/main/README.md) | Utilize the phylogenetic tree analysis on Covid-19 datasets to track the transmission path across different countries. | Chinese
 
