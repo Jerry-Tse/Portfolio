@@ -11,7 +11,7 @@
 
 ---
 
-### Algorithms to increases the visual-understanding of the positional data
+### Algorithms to increase the visual-understanding of the positional data
 I design algorithms that convert discrete sensor data into 3D continuous data, which greatly increases visual understanding of the patient position. See below the graph before (left) and after (right) the process.
 
 <p align="center">
