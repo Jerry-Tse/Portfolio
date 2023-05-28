@@ -25,7 +25,10 @@ Quividi |  [McDonald Contextualized DOOH Campaign](https://quividi.com/mcdonalds
 Studio1Labs |  [Covid-19: Getting to Grips with Respiration](https://www.eetasia.com/covid-19-getting-to-grips-with-respiration/) | News report of our patient monitoring dashboard.
 
 
-
+## Publication
+<img width=80/><br>School | <img width=900/><br> Publication Title
+-- | ---------------- 
+NYMU | Guo, Chao-Yu, Tse-Wei Liu, and Yi-Hau Chen. ["A novel cross-validation strategy for artificial neural networks using distributed-lag environmental factors."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244094) Plos one 16.1 (2021): e0244094.
 
 
 ## Others
