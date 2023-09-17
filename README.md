@@ -6,7 +6,7 @@ List of achieved projects and works.
 Type | Projects | Description
 -- | -- | -------
 Analysis | [Time Series Analysis and Prediction](https://github.com/Jerry-Tse/TimeSeries_AirQualityIndex/blob/master/README.md) | Analyze and perform time-series forecasting on air pollutant datasets.
-BI | [Demo Business Analysis](https://github.com/Jerry-Tse/Example_Business_Analysis-DOOH-industry/blob/main/README.md) | Analyze the effectiveness of advertising campaigns in the digital out-of-home industry (with mock-up data). 
+BI | [Business Analysis mock-up](https://github.com/Jerry-Tse/Example_Business_Analysis-DOOH-industry/blob/main/README.md) | Analyze the effectiveness of advertising campaigns in the digital out-of-home industry (with mock-up data). 
 Product | [Patient monitoring dashboard](https://github.com/Jerry-Tse/Portfolios/tree/master/Studio1Labs) | Smart bed linen which detects patient's vital signs such as breathing patterns, patient position, etc. The ability to monitor patient's condition is critical, especially for certain respiratory diseases such as Covid-19.  
 Product | [Electromyography (EMG) Implementation](https://drive.google.com/open?id=1Cu9w3cG-b40hI6HfJPJbCoS9DQx5ERSm) | Build an EMG device that can detect muscle force in real time with electrical circuit and MCU.
 
